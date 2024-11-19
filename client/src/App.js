@@ -10,7 +10,9 @@ function App() {
     <div className="App">
 
       <Navbar /> 
-    <Wallet/>
+
+      <SignUp/>
+   
     
       <Footer /> 
 

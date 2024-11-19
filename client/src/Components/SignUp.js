@@ -1,5 +1,7 @@
 import React from 'react';
 import '../Styles/Signup.css'; // Ensure you have this CSS file in the same directory
+import Axios from Axios;
+
 
 const SignUp = () => {
   return (
